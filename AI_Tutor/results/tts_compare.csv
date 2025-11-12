@@ -1,0 +1,3 @@
+sentence,gtts_save_s,gtts_play_s,pyttsx3_s
+"Hello, this is a test of gTTS and pyttsx3.",0.5,1.75,5.05
+This is another sentence to evaluate pronunciation and latency.,0.48,1.17,0.16

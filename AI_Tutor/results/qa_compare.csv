@@ -1,0 +1,4 @@
+question,ml_answer,ml_time,rule_answer
+What is Ohm's law?,the current through a conductor between two points,0.16,N/A
+State the formula for Ohm's law,V = I * R,0.09,V = I * R
+What is voltage?,V,0.09,N/A
